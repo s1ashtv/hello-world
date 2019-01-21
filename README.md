@@ -1,7 +1,1 @@
-#include <stdio.h>
-
-int main()
-{
-   printf("Hello, World!");
-   return 0;
-}
+Hello, this is just a sample for the Hello World code for C Language.
